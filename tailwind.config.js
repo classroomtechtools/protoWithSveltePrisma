@@ -1,5 +1,4 @@
 const colors = require('tailwindcss/colors')
-console.log(colors.amber)
 const production = !process.env.ROLLUP_WATCH;
 module.exports = {
   future: {
