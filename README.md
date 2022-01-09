@@ -8,6 +8,8 @@ It uses:
 - Tailwind for the CSS
 - Prisma for the database (SQLite)
 
+![Filter Prototype](docs/filter_prototype.png?raw=true "Filter Classes in ManageBac")
+
 ## Getting started
 
 ```
